@@ -12,6 +12,7 @@ import com.demo.web.dto.TestResultDto;
 import com.demo.web.form.TestForm;
 import com.demo.web.service.TestService;
 
+//testkome
 @Controller
 public class TestController {
 
